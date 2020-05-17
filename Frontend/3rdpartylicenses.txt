@@ -328,6 +328,9 @@ SOFTWARE.
 ng2-cookies
 MIT
 
+ngx-spinner
+MIT
+
 ngx-toastr
 MIT
 The MIT License (MIT)
